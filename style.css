@@ -20,6 +20,9 @@ h1 {
     font-style: italic;
 }
 
+#main {
+    background-color: rgb(216, 177, 126);
+}
 /* Navigation Bar */
 .navbar {
     background-color: #343a40; /* Dark background color for the navbar */
@@ -32,17 +35,17 @@ h1 {
 
 /* Main Content */
 .bg-light {
-    background-color: #f8f9fa; /* Light background color */
+    background-color: #344556; /* Light background color */
 }
 
 .text-light-emphasis {
-    color: #8B4513 ;
+    color: burlywood ;
 }
 
 /* Important Text */
 .important {
     color: rgb(234, 226, 216);
-    background-color: burlywood;
+    background-color:burlywood
 }
 
 /* Buttons */
@@ -53,7 +56,7 @@ h1 {
 
 /* Cards */
 .card-header {
-    background-color: #007bff; /* Blue color for card headers */
+    background-color: #649d5db6; /* Blue color for card headers */
     color: white; /* Text color for card headers */
 }
 
@@ -70,6 +73,7 @@ h1 {
 /* Footer */
 .container-fluid {
     background-color: burlywood; /* Dark background color for the footer */
-    color: rgb(205, 199, 184); /* Text color for the footer */
+    color: burlywood; /* Text color for the footer */
     padding: 10px;
 }
+

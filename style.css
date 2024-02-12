@@ -1,9 +1,8 @@
 /* Global Styles */
 body {
     font-family: Verdana;
-    font-size: 14px;
-    color: black;
-    background-color: #8B4513; /* Brown color */
+    font-size: 20px;
+    color: rgb(63, 63, 63);
     font-weight: bold;
     margin-left: 5px;
     margin-right: 5px;
@@ -20,8 +19,9 @@ h1 {
     font-style: italic;
 }
 
+
 #main {
-    background-color: rgb(216, 177, 126);
+    background-color: #D2D6C7
 }
 /* Navigation Bar */
 .navbar {
@@ -39,19 +39,19 @@ h1 {
 }
 
 .text-light-emphasis {
-    color: burlywood ;
+    
 }
 
 /* Important Text */
 .important {
-    color: rgb(234, 226, 216);
-    background-color:burlywood
+    color:#6c757d
+
 }
 
 /* Buttons */
 .btn-outline-secondary {
     color: #6c757d; /* Button text color */
-    border-color: burlywood; /* Button border color */
+    border-color: #D2D6C7; /* Button border color */
 }
 
 /* Cards */
@@ -72,7 +72,7 @@ h1 {
 
 /* Footer */
 .container-fluid {
-    background-color: burlywood; /* Dark background color for the footer */
+    background-color: #D2D6C7; /* Dark background color for the footer */
     color: burlywood; /* Text color for the footer */
     padding: 10px;
 }

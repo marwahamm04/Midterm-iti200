@@ -2,8 +2,7 @@
 body {
     font-family: Verdana;
     font-size: 20px;
-    color: black;
-    background-color: #8B4513; /* Brown color */
+    color: rgb(63, 63, 63);
     font-weight: bold;
     margin-left: 5px;
     margin-right: 5px;
@@ -19,6 +18,7 @@ h1 {
     text-align: center;
     font-style: italic;
 }
+
 
 #main {
     background-color: rgb(216, 177, 126);
@@ -39,13 +39,13 @@ h1 {
 }
 
 .text-light-emphasis {
-    color: burlywood ;
+    
 }
 
 /* Important Text */
 .important {
-    color: rgb(234, 226, 216);
-    background-color:burlywood
+    color:#6c757d
+
 }
 
 /* Buttons */

@@ -51,7 +51,6 @@ h1 {
 /* Buttons */
 .btn-outline-secondary {
     color: #6c757d; /* Button text color */
-    border-color: #D2D6C7; /* Button border color */
 }
 
 /* Cards */
@@ -77,3 +76,6 @@ h1 {
     padding: 10px;
 }
 
+#btn-story {
+    background-color: #D1C0A8;
+}

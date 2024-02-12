@@ -9,10 +9,10 @@ $(document).ready(function () {
         const fabricMaterial = $('#Fabric_Material').val(); // Changed variable name to fabricMaterial
         const color = $('#Color').val();
 
-        const story = `${person} likes ${fabricMaterial} ${color}.`; // Fixed variable name here
+        const story = `${person} customized a ${fabricMaterial} ${color}.`; // Fixed variable name here
         $('#story').text(story);
 
-        let clickMessage = `You have clicked me ${clickCounter} times`;
+        let clickMessage = `You have Cuztomized me ${clickCounter} times`;
         $('p').last().text(clickMessage);
     });
 });

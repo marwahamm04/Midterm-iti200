@@ -38,9 +38,6 @@ h1 {
     background-color: #344556; /* Light background color */
 }
 
-.text-light-emphasis {
-    
-}
 
 /* Important Text */
 .important {
@@ -50,7 +47,7 @@ h1 {
 
 /* Buttons */
 .btn-outline-secondary {
-    color: #6c757d; /* Button text color */
+    color: #344556; /* Button text color */
 }
 
 /* Cards */
@@ -61,7 +58,7 @@ h1 {
 
 /* Featured Title Icons */
 .bi-gear, .bi-person-circle, .bi-airplane {
-    color: #007bff; /* Blue color for icon */
+    color: #007bffd8; /* Blue color for icon */
 }
 
 /* Featured Cards */
@@ -78,8 +75,4 @@ h1 {
 
 #btn-story {
     background-color: #D1C0A8;
-}
-
-.car {
-    background-color: #D2D6C7;
 }

@@ -1,11 +1,12 @@
 /* Global Styles */
 body {
     font-family: Verdana;
-    font-size: 20px;
+    font-size: 35px;
+    font-style: italic;
     color: rgb(63, 63, 63);
     font-weight: bold;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-top: 5px;
     margin-bottom: 5px;
     padding-top: 10px;
@@ -30,59 +31,58 @@ h5 {
 #main {
     background-color: #D2D6C7
 }
+
 /* Navigation Bar */
 .navbar {
-    background-color: #343a40; /* Dark background color for the navbar */
+    background-color: #343a40;
+    /* Dark background color for the navbar */
 }
 
 /* Breadcrumbs */
 .breadcrumb-item a {
-    color: #6c757d; /* Breadcrumb link color */
+    color: #6c757d;
+    /* Breadcrumb link color */
 }
 
 /* Main Content */
 .bg-light {
-    background-color: #344556; /* Light background color */
+    background-color: #344556;
+    /* Light background color */
 }
 
 
 /* Important Text */
 .important {
-    color:#6c757d
-
+    color: #6c757d
 }
 
 /* Buttons */
 .btn-outline-secondary {
-    color: #344556; /* Button text color */
+    color: #344556;
+    /* Button text color */
 }
 
 /* Cards */
 .card-header {
-    background-color: #649d5db6; /* Blue color for card headers */
-    color: white; /* Text color for card headers */
-}
-
-/* Featured Title Icons */
-.bi-gear, .bi-person-circle, .bi-airplane {
-    color: #007bffd8; /* Blue color for icon */
-}
-
-/* Featured Cards */
-.card {
-    border: 1px solid #dee2e6; /* Card border color */
+    background-color: #649d5db6;
+    /* Blue color for card headers */
+    color: white;
+    /* Text color for card headers */
 }
 
 /* Footer */
 .container-fluid {
-    background-color: #D2D6C7; /* Dark background color for the footer */
-    color: burlywood; /* Text color for the footer */
+    background-color: #D2D6C7;
+    /* Dark background color for the footer */
+    color: burlywood;
+    /* Text color for the footer */
     padding: 10px;
 }
 
 #btn-story {
     background-color: #D1C0A8;
 }
+
 .center {
     text-align: center;
-  }
+}

@@ -19,6 +19,13 @@ h1 {
     font-style: italic;
 }
 
+h5 {
+    font-family: Georgia;
+    font-size: 25px;
+    text-align: center;
+    font-style: italic;
+}
+
 
 #main {
     background-color: #D2D6C7
@@ -76,3 +83,6 @@ h1 {
 #btn-story {
     background-color: #D1C0A8;
 }
+.center {
+    text-align: center;
+  }

@@ -70,6 +70,10 @@ h5 {
     /* Text color for card headers */
 }
 
+.card-text {
+    color: #6c757d ;
+}
+
 /* Footer */
 .container-fluid {
     background-color: #D2D6C7;

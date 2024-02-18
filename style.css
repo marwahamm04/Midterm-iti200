@@ -32,6 +32,8 @@ h5 {
     background-color: #D2D6C7
 }
 
+
+
 /* Main Content */
 .bg-light {
     background-color: #344556;
@@ -49,6 +51,7 @@ h5 {
     color: #344556;
     /* Button text color */
 }
+
 /* Footer */
 .container-fluid {
     background-color: #D2D6C7;

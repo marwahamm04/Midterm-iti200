@@ -32,18 +32,6 @@ h5 {
     background-color: #D2D6C7
 }
 
-/* Navigation Bar */
-.navbar {
-    background-color: #343a40;
-    /* Dark background color for the navbar */
-}
-
-/* Breadcrumbs */
-.breadcrumb-item a {
-    color: #6c757d;
-    /* Breadcrumb link color */
-}
-
 /* Main Content */
 .bg-light {
     background-color: #344556;
@@ -62,16 +50,9 @@ h5 {
     /* Button text color */
 }
 
-/* Cards */
-.card-header {
-    background-color: #649d5db6;
-    /* Blue color for card headers */
-    color: white;
-    /* Text color for card headers */
-}
 
 .card-text {
-    color: #6c757d ;
+    color: #6c757d;
 }
 
 /* Footer */

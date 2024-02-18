@@ -1,6 +1,6 @@
 $(document).ready(function () {
     let clickCounter = 0;
-    let alertShown = false; 
+    let alertShown = false;
 
     // Hide the alert initially
     $('.alert').hide();

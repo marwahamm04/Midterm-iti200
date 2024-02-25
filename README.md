@@ -1,2 +1,2 @@
 # Midterm-iti200
-Brett and Marwas Midterm website!
+Marwas and Brett Midterm website!
